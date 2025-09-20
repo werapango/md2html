@@ -1,0 +1,11 @@
+# Markdown to HTML Converter with Mermaid Support
+
+# Core markdown processing
+markdown>=3.4.0
+pygments>=2.15.0
+
+# GUI support (built-in with Python)
+# tkinter - included with Python standard library
+
+# Optional: For advanced Markdown features
+pymdown-extensions>=9.0.0
